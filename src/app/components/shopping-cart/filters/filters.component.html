@@ -1,0 +1,45 @@
+<div class="card filters">
+  <div class="card-header">
+    <strong>Filters</strong>
+  </div>
+
+  <div class="card-body">
+    <form #filterForm="ngForm" (ngSubmit)="filter()">
+      <div class="form-group">
+        <label for="fromValue">From</label>
+        <input
+          type="number"
+          name="fromValue"
+          id="fromValue"
+          #fromValue="ngModel"
+          [(ngModel)]="model.fromValue"
+          class="form-control"
+          required
+        />
+      </div>
+
+      <div class="form-group">
+        <label for="toValue">To</label>
+        <input
+          type="number"
+          name="toValue"
+          id="toValue"
+          #toValue="ngModel"
+          [(ngModel)]="model.toValue"
+          class="form-control"
+          required
+        />
+      </div>
+
+      <button
+        class="btn btn-primary btn-block btn-sm"
+        [routerLink]="[
+          '/shop/',
+          { fromValue: this.model.fromValue, toValue: this.model.toValue }
+        ]"
+      >
+        Filter by Price
+      </button>
+    </form>
+  </div>
+</div>

@@ -1,0 +1,10 @@
+<div *ngIf="!removedFromCart" class="cart-item">
+  <p>
+    <span>{{ cartItem.productName }}</span> x <span>{{ cartItem.qty }}</span>
+  </p>
+  <i
+    class="fas fa-close red float-right"
+    (click)="handleRemoveFromCart(this.cartItem.id)"
+  ></i>
+  <strong>{{ cartItem.qty * cartItem.price | currency: "INR" }}</strong>
+</div>
