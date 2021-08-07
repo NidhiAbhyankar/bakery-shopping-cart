@@ -1,0 +1,112 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Puff Pastry",
+      "description": "Puff pastry, also known as pâte feuilletée, is a flaky light pastry made from a laminated dough composed of dough (détrempe) and butter or other solid fat (beurrage). The butter is put inside the dough (or vice versa), making a paton which is repeatedly folded and rolled out before baking.Puff pastry is a light, buttery, flaky dough used in both sweet and savory dishes, from appetizers to main courses to desserts.",
+      "imageUrl": "https://www.pngfind.com/pngs/m/283-2835813_transparent-bakery-puff-pastry-breakfast-cake-claw-bakery.png",
+      "price": 120
+    },
+    {
+      "id": 2,
+      "name": "Truffle Chocolate Cake",
+      "description": " this Chocolate Truffle Cake will satisfy any chocolate lovers craving. The cake itself is dense and moist, just like proper chocolate cake should be, and the frosting…. oh that frosting! Pure chocolate heaven! It’s simple, consisting of chocolate, heavy cream, and butter, which is basically how you make a chocolate truffle, albeit with slightly different proportions. It is dreamy chocolate heaven right there.",
+      "imageUrl": "https://e7.pngegg.com/pngimages/647/539/png-clipart-chocolate-cake-chocolate-truffle-chocolate-cake-black-forest-gateau-birthday-cake-bakery-delicious-cakes-food-cake-decorating.png",
+      "price": 180
+    },
+    {
+      "id": 3,
+      "name": "Cookie Biscuit",
+      "description": "A cookie is a baked or cooked food that is typically small, flat and sweet. It usually contains flour, sugar, egg, and some type of oil, fat, or butter. It may include other ingredients such as raisins, oats, chocolate chips, nuts, etc. In most English-​speaking countries except for the United States, crunchy cookies are called biscuits.",
+      "imageUrl": "https://img.favpng.com/2/10/2/bakery-cookie-biscuit-baking-cake-png-favpng-vSw0XES9QqaZi18a4h8AyT38x.jpg",
+      "price": 220
+    },
+    {
+      "id": 4,
+      "name": "Chocolate Cookiey",
+      "description": "These cookies are so chocolatey → soft → chewy → super fudgy → gooey on the inside, with a crispy/crunchy outer shell. Not only does the entire pan disappear in seconds, they are renamed ‘woooaahh! BETTER THAN BROWNIES!‘ by everyone who tries them!",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSgEipngvIE0NZAsvhDPZcamKjXC2g_fkBNw&usqp=CAU",
+      "price": 100
+    },
+    {
+      "id": 5,
+      "name": "Double Choco Cake",
+      "description": "It contains minerals like selenium, potassium, zinc that are good for our health. Cocoa has a plus point that it increases the level of cholesterol that is good for health and reduces the level of cholesterol, which is not beneficial(LDL). Dark chocolate contains flavonols, which can protect our skin from sun damage.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDGoVhfPcPzjXlzsWELdak3i3wWmbZQMkUMg&usqp=CAU'",
+      "price": 150
+    },
+    {
+      "id": 6,
+      "name": "Chocolate Cake",
+      "description": "It contains minerals like selenium, potassium, zinc that are good for our health. Cocoa has a plus point that it increases the level of cholesterol that is good for health and reduces the level of cholesterol, which is not beneficial(LDL). Dark chocolate contains flavonols, which can protect our skin from sun damage.",
+      "imageUrl": "https://freepikpsd.com/media/2019/10/bakery-cake-png-2-Images-PNG-Transparent.png",
+      "price": 400
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 1
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 2,
+        "name": "Truffle Chocolate Cake",
+        "description": " this Chocolate Truffle Cake will satisfy any chocolate lovers craving. The cake itself is dense and moist, just like proper chocolate cake should be, and the frosting…. oh that frosting! Pure chocolate heaven! It’s simple, consisting of chocolate, heavy cream, and butter, which is basically how you make a chocolate truffle, albeit with slightly different proportions. It is dreamy chocolate heaven right there.",
+        "imageUrl": "https://e7.pngegg.com/pngimages/647/539/png-clipart-chocolate-cake-chocolate-truffle-chocolate-cake-black-forest-gateau-birthday-cake-bakery-delicious-cakes-food-cake-decorating.png",
+        "price": 180
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Truffle Chocolate Cake",
+        "description": " this Chocolate Truffle Cake will satisfy any chocolate lovers craving. The cake itself is dense and moist, just like proper chocolate cake should be, and the frosting…. oh that frosting! Pure chocolate heaven! It’s simple, consisting of chocolate, heavy cream, and butter, which is basically how you make a chocolate truffle, albeit with slightly different proportions. It is dreamy chocolate heaven right there.",
+        "imageUrl": "https://e7.pngegg.com/pngimages/647/539/png-clipart-chocolate-cake-chocolate-truffle-chocolate-cake-black-forest-gateau-birthday-cake-bakery-delicious-cakes-food-cake-decorating.png",
+        "price": 180
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Truffle Chocolate Cake",
+        "description": " this Chocolate Truffle Cake will satisfy any chocolate lovers craving. The cake itself is dense and moist, just like proper chocolate cake should be, and the frosting…. oh that frosting! Pure chocolate heaven! It’s simple, consisting of chocolate, heavy cream, and butter, which is basically how you make a chocolate truffle, albeit with slightly different proportions. It is dreamy chocolate heaven right there.",
+        "imageUrl": "https://e7.pngegg.com/pngimages/647/539/png-clipart-chocolate-cake-chocolate-truffle-chocolate-cake-black-forest-gateau-birthday-cake-bakery-delicious-cakes-food-cake-decorating.png",
+        "price": 180
+      },
+      "id": 3
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
