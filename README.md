@@ -1,3 +1,10 @@
+A bakery shopping cart website displaying bakery items for sale which can be added to cart, removed
+from cart,added to wishlist, filtered as per price using angular framework.
+
+
+
+
+
 # BakeryShoppingCart
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.5.
